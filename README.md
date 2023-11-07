@@ -1,5 +1,5 @@
 # school-web-fe
-Documentation beranda
+Documentation vercel : https://school-web-fe.vercel.app/
 <br>
 navbar
 ![navbar](https://github.com/maharaniiibp/School-Web/assets/100181754/2d0dcafc-a663-495b-81d6-9a45572ecf45)
